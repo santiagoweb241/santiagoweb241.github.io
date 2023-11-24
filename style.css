@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(3, 3, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    
+}
+.menu{
+    color: aliceblue;
+    border-bottom: 2px solid black;
+}
+.segundomenu li ul a{
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+    
+   
+    
+}
